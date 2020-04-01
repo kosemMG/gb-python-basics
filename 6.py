@@ -1,5 +1,6 @@
 distance = float(input('Enter the distance an athlete ran at the first day: '))
 interest_distance = float(input('Enter the distance you are interested in: '))
+
 day = 1
 
 while distance < interest_distance:

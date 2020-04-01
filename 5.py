@@ -1,6 +1,5 @@
 revenue = float(input('Enter your company revenue: '))
 expenses = float(input('Enter your company expenses: '))
-
 income = revenue - expenses
 
 if income > 0:
